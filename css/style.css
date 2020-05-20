@@ -1,0 +1,98 @@
+/* CSS Document */
+
+
+/*LEFT + MAIN FRAMES*/
+body {
+	font-family: Helvetica, Arial, Verdana, sans-serif;
+	font-weight:700;
+	font-size: 11px;
+	color:#000000;
+	margin-left:10px;
+}
+a {
+	text-decoration:none;
+	color:#5c5c5c;
+	line-height: 16px;
+}
+a:hover {
+	color:#000;
+}
+.title {
+	color:#000000;
+	font-size: 24px;
+	margin: 25px 0 0 0;
+	letter-spacing: -0.01em;
+	line-height:17px;
+}
+.header {
+	color:#000000;
+	font-size: 15px;
+	margin: 25px 0 0 0;
+	letter-spacing: -0.0em;
+	line-height:11px;
+}
+.medium {
+	color:#000000;
+	font-size: 14px;
+	margin: 25px 20 20 20;
+	padding-top:10px;
+	letter-spacing: -0.0em;
+	line-height:16px;
+	font-weight: normal;
+}
+.concept{
+	font-size: 13px;
+	letter-spacing: -.03em;
+	line-height:11px;
+	margin: 10px 0 0 0;
+}
+
+.subconcept{
+	font-size: 11px;
+	letter-spacing: -.03em;
+	color:#222222;
+	line-height:16px;
+	margin: 10px 0 0 0;
+}
+
+.contact{
+	font-size: 11px;
+	letter-spacing: -.03em;
+	color:#5c5c5c;
+	line-height:16px;
+	margin-left: 500px;
+	
+}
+
+
+.subconcept2{
+	font-size: 11px;
+	letter-spacing: -0.03em;
+	line-height:11px;
+	margin: 10px 0 0 0;
+}
+
+
+/*TOP FRAME*/
+.topframe-container {
+	height:72px;
+	border-bottom:solid #000000 1px;
+	min-width: 600px;
+	overflow:hidden;
+}
+.ec-logo {
+	width:75px;
+	height:76px;
+	margin-bottom:0px;
+	background:url(../images/EC_Bug_Red.png) no-repeat left top;
+	float:left;
+	
+}
+.client-logo {
+	width:200px;
+	height:48px;
+	float:right;
+	background-image: url(../images/client.gif);
+	background-repeat: no-repeat;
+	background-position: right top;	
+}
