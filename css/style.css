@@ -45,12 +45,22 @@ a:hover {
 	letter-spacing: -.03em;
 	line-height:11px;
 	margin: 10px 0 0 0;
+	color:#ed1c24;
+
 }
 
 .subconcept{
 	font-size: 11px;
 	letter-spacing: -.03em;
 	color:#222222;
+	line-height:16px;
+	margin: 10px 0 0 0;
+}
+
+.team{
+	font-size: 11px;
+	letter-spacing: -.03em;
+	color:#ed921c;
 	line-height:16px;
 	margin: 10px 0 0 0;
 }
